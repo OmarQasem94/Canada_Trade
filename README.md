@@ -24,7 +24,7 @@ In this project python was used to wrangle the dataset before importing it into 
 
 **Dashboard**
 
-![Trade_Dashboard](https://github.com/OmarQasem94/Sales_Insights/blob/main/Images/Dashboard_Photo.png)
+![Trade_Dashboard](https://github.com/OmarQasem94/Canada_Trade/blob/main/Images/Trade_Dashboard.png)
 
 The dashboard depicts the following:
 
